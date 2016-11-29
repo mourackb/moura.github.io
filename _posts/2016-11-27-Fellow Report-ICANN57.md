@@ -30,6 +30,8 @@ This was very important for me, i understand that be NextGen member and be a Fel
 
 A few months before the start of Icann57 meeting i discover that Renata Aquino would be my coach in the Fellow. Such an honor (and maybe a bit of luck) to get in touch with someone who seems to understand and is so didactic to explain about our main struggles. Having Renata as a coach was almost as a Yoda-Luke relationship. The good part is that we are from different Brazil's i am from south and she is from northeast, completely different Brazil but at same time is the same Brazil. Looks confusing and it is, even from someone who is born and raise here
 
+## During the Meeting
+
 ### Day 1
 
 My first day at conference was a good to see again some amazing people who i have had contact in other editions of ICANN. During the morning i attended to the "Community Onboarding session - Pilot". It was interesting to see that each constituency has his own way of onboarding and this reflects the works, proccedings and even achievements from each one. There is a lot of work to be done here, maybe with more transparency of this pilot, people who are starting his journey on ICANN will feel better at onboarding process.  For example, we can't think the onboarding process similar to the airlines (it looks that we always are losing our time), the goal is different. The onboarding process must be an invite to join the community, explaining what the community is and what is does, allowing the newcomer to explore the relationships with other communities and institutions. One thing that wasn't clear for me was about the selection proccess of mentors and mentee. They have time to prepare they presentations? I saw more than one constituency preparing the presentation 5 minutes before the meeting started, i tried to find this info but maybe my search terms was wrong - this is something to look forward to better understand and cooperate. At the same time i understand that this is a Pilot, but would be great (and challenging) to create a benchmark about how joinable a constituency is.
@@ -124,3 +126,23 @@ THe last talk of the day was Greg Shatan chair from IPC (Intelectual Property Co
 
 ### Day 7
 On the last day of the meeting i've had the opportunity to talk directly with Patrick Falstron the Chair and the vice chair James Galvin. We talked about the  path to become a SSAC member, as long that all member have a high level of skill and ability, i asked if there are plans to SSAC create a onboarding program, unfortunately Patrik told me that they are not plan to do something like that.
+
+## Foellow Up
+
+This is what I'll follow after my first participation in the fellowship program, i divided my follow-up in 4 milestones. Below you can find a description/explanation of how i intend to achieve each one. I believe that explaining this transparency is also an invite, if some of this follow-up make sense for you and you think that can contribute feel free to get in touch i create a personal schedule for each one of these and will be happy to share.
+
+### SSAC explained
+After talk with Patrik Fälströn, i was inspired to create relevant content to community based on SSAC Works. To achieve this i plan to create a content SSAC Explaned (after check if i can use this name in this kind of work). After reading the SSAC works and the context of this works i intend to create a content that will explain why the community request the advise and seek to understand why SSAC decided this. This content fills my purpose to create technical outreach, contribution to community and transit between different layers of technical skill explaining complex subject to a broader group.
+
+### Join the NCUC
+I already asked to join the NCUC, i think that i can contribute as a individual professional joining in this constituency. My milestone is to follow the work of this constituency and improve the onboarding program.
+
+### Governance Prime
+After my participation as a Fellow, i understand even more the importance and the contribution on training, onboarding and outreach that the Governance Prime has. My milestone in this subject is to develop a way that the Governance Prime works in universities (so we can create more edition with the partnership with this stakeholder group)  
+
+### IcannWikiPtbr
+One of the milestone is to produce Brazilian Portuguese content in ICANNWiki, to achieve this milestone cooperation is needed, the path to reach this cooperation is by inviting all stakeholders and institutions that acts in the ICANN ecosystem to colaborate creating their pages. Next, i'll invite the Governance Prime students to create content that they think lacking. Next will try to organize some ICANNWiki hackatons to introduce the platform and the content in a more abroad way.
+
+### Expanding the community
+My last milestone is the tougher, my milestone is to expand the community as a whole, i intend to do this by explaining the ICANN's work and inviting more 10 people to enter and participate in the some Constituency, Advisory committee, support Organization or join some Review Team. 
+
