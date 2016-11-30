@@ -60,6 +60,8 @@ After wake up, i have had a meeting with my couch Renata Aquino to discuss my ag
 
 The opening ceremony was marked by Trump's jokes (at the end of meeting we discover he was elected in USA). The huge numbers of India digital inclusion was presented, a good part of the next billion are in India and some ICANN works (i.e. the newGTLD with Internalization) will help more people have access (and consume) internet resources.
 
+![Alt text](/path/to/img.jpg "Title") <img src="/../images/IMG_3146.JPG" alt="Alt text" title="Openning"/>
+
 After the opening ceremony went to meeting with NextGen ambassadors to share some ideas about the Ambassador work and activities with the NextGens@ICANN from this edition and the importance of be an Ambassador the some ideas that i think about the Ambassador Role. 
 
 Then begin our first Fellowship Session:
