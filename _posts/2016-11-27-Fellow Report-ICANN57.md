@@ -60,15 +60,15 @@ After wake up, i have had a meeting with my couch Renata Aquino to discuss my ag
 
 The opening ceremony was marked by Trump's jokes (at the end of meeting we discover he was elected in USA). The huge numbers of India digital inclusion was presented, a good part of the next billion are in India and some ICANN works (i.e. the newGTLD with Internalization) will help more people have access (and consume) internet resources.
 
-![Alt text](/path/to/img.jpg "Title") <img src="/../images/IMG_3146.JPG" alt="Alt text" title="Openning"/>
+
+<img src="images/IMG_3146.JPG" alt="hi" class="inline"/>
 
 After the opening ceremony went to meeting with NextGen ambassadors to share some ideas about the Ambassador work and activities with the NextGens@ICANN from this edition and the importance of be an Ambassador the some ideas that i think about the Ambassador Role. 
 
 Then begin our first Fellowship Session:
 The first speakers are Tijani Ben Jemaa and Maureen Hilyard both from ALAC(At-Large Advisory Committee). They explain to us the big efforts present in ALAC to create e develop leaderships thru mentoring programs. They also make a great an explanation about the At Large Structures and the regions AROs. 
 
-				<>	 ( [[ Inserir Internet / Diversity / Goals - Initiative diagram]] )
-
+			
 After the ALAC round of question, Sherwood Moore make a great introduction about the Reviews of ICANN, basically the ICANN Reviews are a way to secure one of the main purpose of ICANN: A single interoperable Internet supported by stable, secure and resilient unique identifiers. The reviews are a way of community make sure that the organization flows, initiative and changes are scoped with the main purpose. The review are separate by Organization Review and Specific Reviews. A good idea to help in the selection of Reviewers would be to use platforms as ICANNLearn and ICANNWiki to help make the selection based on what types of contribution the proposed reviewer already give to community.
 
 Then came the RSSAC representative Carlos Reyes to explain the works from RSAC (Root Server Advirosy Commitee), this AC is quite close, the only to participate is applying to RSSAC Caucus that is a technicall body of experts from different backgrounds. The RSAC is the AC responsible to keep the 13 root servers are operated by 12 independent organizations (Verisigh has two instances). Everyone can check the addrress of each server by accessing the hints file( can bbe found here https://www.internic.net/zones/named.root)
