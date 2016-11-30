@@ -129,7 +129,7 @@ THe last talk of the day was Greg Shatan chair from IPC (Intelectual Property Co
 ### Day 7
 On the last day of the meeting i've had the opportunity to talk directly with Patrick Falstron the Chair and the vice chair James Galvin. We talked about the  path to become a SSAC member, as long that all member have a high level of skill and ability, i asked if there are plans to SSAC create a onboarding program, unfortunately Patrik told me that they are not plan to do something like that.
 
-![The Chair and ViceChar of SSAC]({{ site.url }}/images/IMG_3312.JPG)
+![The Chair and ViceChar of SSAC](images/IMG_3312.JPG)
 
 ## Foellow Up
 
