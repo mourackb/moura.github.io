@@ -24,6 +24,8 @@ I also participate at South School of Internet Governance in Washington, US. Thi
 
 With the initiative of a nextgen53 allumi, Mark Datysgeld, invited to talk about cybersecurity in a project called Governance Prime, the idea is to teach and introduce people from different sectors about how Internet Governance works. The Sao Paulo edition really get my attention, so i started to discuss with Daniel Fink the possibility to host a Governance Prime edition in my city , Porto Alegre. This edition was only possible due the support of ICANN and the UNISINOS (my alma mater). The timing was excellent, we planned the event for june and on July the CGI.br would held in the same city the Brazilian Internet Forum (IGF Brazil). At same time that we are getting together people from different areas to discuss and engage Internet Governance, we are broadcasting the Forum and the possibility to get more people participating in the debates.
 
+## the Beginning
+
 After receive the great notice  i start to plan my participation, this is such a singular opportunity and i want to grab this with energy, dedication and focus. With this in mind, i started to talk with different people who already take part in the Fellowship program. Asked about: What not to miss, tips to manage energy, how it works and what to avoids. 
 
 This was very important for me, i understand that be NextGen member and be a Fellow is very different. This difference will make the process unique again, and this was exciting for me.
