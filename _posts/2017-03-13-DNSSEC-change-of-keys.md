@@ -7,7 +7,6 @@ title: DNSSEC change of keys
 ### Não tenha seu acesso para a Internet comprometido
 
 Ao contrário de ser uma caixa preta com um botão vermelho como é retratada em "The it crowd", a Internet, também conhecida como a redes das redes, é uma conjunção de diversos atores que concordaram ou adotaram os mesmos protocolos para que todos os dispositivos dentro dessa "rede" pudessem se comunicar ( e futuramente se espionar, se atacar e se duplicar). Dentro destes arranjos entre os operadores da rede está um acordo (um modelo "opt-in") para todos usarem o mesmo sistema de endereçamento de nomes e domínios(também conhecido como DNS).
-
 Quando você está conectado a esta imensa rede de dispositvos você começa a conexão na rede pelo seu ISP ( Internet Service Provider | Provedor de Internet)	que terá rotas para chegar a quaisquer outro dispositivo da rede que você queira alcançar. A adoção deste modelo é tema para teses de mestrado e doutorado e eu não acredito ter capacidade (por enquanto) para explicar em apenas um texto.
 
 Este ISP lhe entregará as requisições de rede que você solicitar ( quer seja elas um site do sua loja favorita ou uma foto de um gatinho fofo). Quando você quer, por exemplo, saber as últimas do Projeto Tamar. Você só precisa lembrar do domínio tamar.org.br e não o endereço IP completo (um conjunto decimal e no caso do Ipv6 um conjunto hexadecimal).
@@ -21,7 +20,7 @@ Antes de gerar um alarde e anunciar o caos,  saiba o que fazer. A sua ação se 
 
 Não sabe qual o seu ISP? Recomendo o site https://www.whoismyisp.org/
 
-*Nem ly e nem lerey*
+** Nem ly e nem lerey _**
 Você pode ter o seu acesos a Internet comprometido, consulte seu ISP e veja se ele utiliza DNSSEC e caso positivo se ele está ciente da troca das chaves.
 
 ### Referências
