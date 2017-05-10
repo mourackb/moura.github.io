@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNSSEC change of keys
+categories: internetgovernance 
+lang: pt
 ---
 
 ## Troca de chaves no DNSSEC
