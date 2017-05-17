@@ -1,22 +1,28 @@
-# Permalinks
+# Welcome to Jekyll!
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: false
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Setup
-title:               Lucas Moura
-tagline:             'Weekly blogly text stuff'
-description:         'A space to share some insights about the upcoming. This theme was made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole. 
-baseurl:             ''
-paginate:            5
+# Site settings
+title:
+  en: Lucas Moura
+  pt: Lucas Moura
+email: your-email@domain.com
+description:
+  en: A space to share some insights about the upcoming.
+  fr: Um espaço para compartilhar algumas ideias
+index:
+  en:
+  pt: accueil.html
+feed:
+  en: /feed.xml
+  pt: /flux.xml
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# About/contact
-author:
-  name:              Lucas Moura
-  url:               https://twitter.com/mourackb
-  email:             lmouraccg@gmail.com
-
-# Custom vars
-version:             1.0.0
+# Build settings
+markdown: kramdown
