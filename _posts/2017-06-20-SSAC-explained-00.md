@@ -1,3 +1,10 @@
+---
+layout: post
+title: SSAC Explained 00
+categories: internetgovernance 
+lang: pt
+---
+
 Como são divididos os documentos do SSAC?
 
 Antes de tentar explicar as publicações realizadas pelo SSAC, acredito ser interessante explicar como funciona cada documento gerado pelo grupo. Acredito que para ser ter uma boa visão do contexto que o documento se baseia, é interessante também saber que tipo de documento ele é dentro da gama de documentos gerados pelo SSAC.
